@@ -23,15 +23,14 @@ My research interest includes information theory, mechanistic interpretability a
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09*: &nbsp;🎉🎉 I created my personal academic homepage.
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/1arxiv25.png' alt="arxiv25" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Fusion to Enhance: Fusion Visual Encoder to Enhance Multimodal Language Model](https://arxiv.org/abs/2509.00664)
+Fusion to Enhance: Fusion Visual Encoder to Enhance Multimodal Language Model
 
 **She Yifei**, Huangxuan Wu
 
@@ -45,7 +44,7 @@ My research interest includes information theory, mechanistic interpretability a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/1emnlp25.png' alt="emnlp25" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DisLoRA: Task-specific Low-Rank Adaptation via Orthogonal Basis from Singular Value Decomposition](https://openreview.net/forum?id=jQpjys5xSA)
+DisLoRA: Task-specific Low-Rank Adaptation via Orthogonal Basis from Singular Value Decomposition
 
 **She Yifei**, Xinhao Wei, Yulong Wang
 
@@ -59,7 +58,7 @@ My research interest includes information theory, mechanistic interpretability a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACC 2025</div><img src='images/1acc25.png' alt="acc25" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Enhancing Vehicle Platooning Safety via Control Node Placement and Sizing under State and Input Bounds](https://ieeexplore.ieee.org/abstract/document/11108044)
+Enhancing Vehicle Platooning Safety via Control Node Placement and Sizing under State and Input Bounds
 
 **Yifei She**, Shen Wang, Ahmad Taha, and Xiaofeng Tao
 
@@ -68,9 +67,11 @@ My research interest includes information theory, mechanistic interpretability a
 </div>
 </div>
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Awards and Experiences
+- *2025.08*, Participant, Financial Services Project, National University of Singapore (NUS) Summer Workshop.
+- *2025.03*, Selected for BUPT's PING Program for advanced studies in Semantic Information Theory.
+- *2024.11*, Recipient of the BUPT Future Scholars Research Fund.
+- *2023.10*, Third-Prize University Scholarship, BUPT.
 
 # 📖 Educations
 - *2022.09 - 2026.06 (Expected)*, Bachelor of Engineering in Communication Engineering, Beijing University of Posts and Telecommunications (BUPT).
