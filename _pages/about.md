@@ -31,19 +31,21 @@ My research interest includes information theory, mechanistic interpretability a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/1arxiv25.png' alt="arxiv25" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Fusion to Enhance: Fusion Visual Encoder to Enhance Multimodal Language Model
+[Fusion to Enhance: Fusion Visual Encoder to Enhance Multimodal Language Model](https://arxiv.org/abs/2509.00664)
 
 **She Yifei**, Huangxuan Wu
 
 [**Paper**](https://arxiv.org/abs/2509.00664) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We fuse intermediate-layer representations from CLIP and Dinov2 using cross-attention to enhance the visual understanding capabilities of Multimodal Language Models.
+</div>
+</div>
 
 <br>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/1emnlp25.png' alt="emnlp25" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-DisLoRA: Task-specific Low-Rank Adaptation via Orthogonal Basis from Singular Value Decomposition
+[DisLoRA: Task-specific Low-Rank Adaptation via Orthogonal Basis from Singular Value Decomposition](https://openreview.net/forum?id=jQpjys5xSA)
 
 **She Yifei**, Xinhao Wei, Yulong Wang
 
@@ -57,7 +59,7 @@ DisLoRA: Task-specific Low-Rank Adaptation via Orthogonal Basis from Singular Va
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACC 2025</div><img src='images/1acc25.png' alt="acc25" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Enhancing Vehicle Platooning Safety via Control Node Placement and Sizing under State and Input Bounds
+[Enhancing Vehicle Platooning Safety via Control Node Placement and Sizing under State and Input Bounds](https://ieeexplore.ieee.org/abstract/document/11108044)
 
 **Yifei She**, Shen Wang, Ahmad Taha, and Xiaofeng Tao
 
@@ -66,21 +68,13 @@ Enhancing Vehicle Platooning Safety via Control Node Placement and Sizing under 
 </div>
 </div>
 
-
-</div>
-</div>
-
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.09 - 2026.06 (Expected)*, Bachelor of Engineering in Communication Engineering, Beijing University of Posts and Telecommunications (BUPT).
+- *2026.09 - Future*, Ph.D. Candidate in Artificial Intelligence, Beijing University of Posts and Telecommunications (BUPT). To be supervised by Prof. Kai Niu on the interpretability of LLMs via semantic information theory.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+I am looking for.
