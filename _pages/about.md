@@ -28,40 +28,22 @@ My research interest includes information theory, mechanistic interpretability a
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/1arxiv25.png' alt="arxiv25" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Fusion to Enhance: Fusion Visual Encoder to Enhance Multimodal Language Model
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**She Yifei**, Huangxuan Wu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACC 2025</div><img src='images/1acc25.png' alt="acc25" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Enhancing Vehicle Platooning Safety via Control Node Placement and Sizing under State and Input Bounds](https://ieeexplore.ieee.org/abstract/document/11108044)
-
-**Yifei She**, Shen Wang, Ahmad Taha, and Xiaofeng Tao
-
-[**Paper**](https://ieeexplore.ieee.org/abstract/document/11108044) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We utilize a greedy algorithm to select key control nodes and apply convex optimization to constrain over-approximated reachable sets, ensuring vehicle platooning safety.
-</div>
-</div>
+[**Paper**](https://arxiv.org/abs/2509.00664) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We fuse intermediate-layer representations from CLIP and Dinov2 using cross-attention to enhance the visual understanding capabilities of Multimodal Language Models.
 
 <br>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/1emnlp25.png' alt="emnlp25" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DisLoRA: Task-specific Low-Rank Adaptation via Orthogonal Basis from Singular Value Decomposition](https://openreview.net/forum?id=jQpjys5xSA)
+DisLoRA: Task-specific Low-Rank Adaptation via Orthogonal Basis from Singular Value Decomposition
 
 **She Yifei**, Xinhao Wei, Yulong Wang
 
@@ -72,15 +54,19 @@ My research interest includes information theory, mechanistic interpretability a
 
 <br>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/1arxiv25.png' alt="arxiv25" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACC 2025</div><img src='images/1acc25.png' alt="acc25" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Fusion to Enhance: Fusion Visual Encoder to Enhance Multimodal Language Model](https://arxiv.org/abs/2509.00664)
+Enhancing Vehicle Platooning Safety via Control Node Placement and Sizing under State and Input Bounds
 
-**She Yifei**, Huangxuan Wu
+**Yifei She**, Shen Wang, Ahmad Taha, and Xiaofeng Tao
 
-[**Paper**](https://arxiv.org/abs/2509.00664) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We fuse intermediate-layer representations from CLIP and Dinov2 using cross-attention to enhance the visual understanding capabilities of Multimodal Language Models.
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/11108044) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We utilize a greedy algorithm to select key control nodes and apply convex optimization to constrain over-approximated reachable sets, ensuring vehicle platooning safety.
+</div>
+</div>
+
+
 </div>
 </div>
 
