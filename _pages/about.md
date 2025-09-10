@@ -19,7 +19,7 @@ redirect_from:
 
 She Yifei is an undergraduate student in Communication Engineering at Beijing University of Posts and Telecommunications (BUPT), expecting to graduate in 2026. He will continue at BUPT to pursue his Ph.D. under the supervision of Prof. Kai Niu. His doctoral research will focus on the interpretability of Large Language Models (LLMs) through the lens of semantic information theory.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes information theory, mechanistic interpretability and representation learning.
 
 
 # 🔥 News
@@ -41,6 +41,48 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+# 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACC 2025</div><img src='images/1acc25.png' alt="acc25" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Enhancing Vehicle Platooning Safety via Control Node Placement and Sizing under State and Input Bounds](https://ieeexplore.ieee.org/abstract/document/11108044)
+
+**Yifei She**, Shen Wang, Ahmad Taha, and Xiaofeng Tao
+
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/11108044) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We utilize a greedy algorithm to select key control nodes and apply convex optimization to constrain over-approximated reachable sets, ensuring vehicle platooning safety.
+</div>
+</div>
+
+<br>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/1emnlp25.png' alt="emnlp25" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DisLoRA: Task-specific Low-Rank Adaptation via Orthogonal Basis from Singular Value Decomposition](https://openreview.net/forum?id=jQpjys5xSA)
+
+**She Yifei**, Xinhao Wei, Yulong Wang
+
+[**Paper**](https://openreview.net/forum?id=jQpjys5xSA) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We decompose LoRA's A and B matrices via SVD to identify task-specific directions for optimized training and use an adaptive soft regularization loss to accelerate convergence.
+</div>
+</div>
+
+<br>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/1arxiv25.png' alt="arxiv25" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Fusion to Enhance: Fusion Visual Encoder to Enhance Multimodal Language Model](https://arxiv.org/abs/2509.00664)
+
+**She Yifei**, Huangxuan Wu
+
+[**Paper**](https://arxiv.org/abs/2509.00664) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We fuse intermediate-layer representations from CLIP and Dinov2 using cross-attention to enhance the visual understanding capabilities of Multimodal Language Models.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
