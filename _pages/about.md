@@ -23,6 +23,7 @@ His research interest includes information theory, mechanistic interpretability 
 
 
 # 🔥 News
+- *2025.09*: &nbsp;I built a pinned [chat widget](https://github.com/weiweisss/chatbox) that calls AI APIs for quick questions.
 - *2025.09*: &nbsp;🎉🎉 I created my personal academic homepage.
 
 # 📝 Publications 
