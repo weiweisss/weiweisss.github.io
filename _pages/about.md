@@ -31,7 +31,7 @@ His research interest includes information theory, mechanistic interpretability 
   <div class='paper-box-image'>
     <div>
       <div class="badge">Under Review</div> 
-      <img src='images/generic_ai_image.png' alt="Under Reviewing" width="100%">
+      <img src='images/under_review.png' alt="Under Reviewing" width="100%">
     </div>
   </div>
   
@@ -40,7 +40,7 @@ His research interest includes information theory, mechanistic interpretability 
 
   **She Yifei** et al.
 
-  [**Paper**](www.google.com)
+  [**Paper**](https://openreview.net/)
   - My recent work introduces a novel benchmark to evaluate large language models on complex and dynamic content moderation policies, addressing critical gaps in existing evaluation methods.
   </div>
   
