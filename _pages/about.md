@@ -27,6 +27,27 @@ His research interest includes information theory, mechanistic interpretability 
 - *2025.09*: &nbsp;🎉🎉 I created my personal academic homepage.
 
 # 📝 Publications 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Under Review</div> 
+      <img src='images/generic_ai_image.png' alt="Under Reviewing" width="100%">
+    </div>
+  </div>
+  
+  <div class='paper-box-text' markdown="1">
+  **A New Benchmark for AI Content Moderation** 
+
+  **She Yifei** et al.
+
+  [**Paper**](www.google.com)
+  - My recent work introduces a novel benchmark to evaluate large language models on complex and dynamic content moderation policies, addressing critical gaps in existing evaluation methods.
+  </div>
+  
+</div>
+
+<br>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/1arxiv25.png' alt="arxiv25" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -35,7 +56,7 @@ Fusion to Enhance: Fusion Visual Encoder to Enhance Multimodal Language Model
 
 **She Yifei**, Huangxuan Wu
 
-[**Paper**](https://arxiv.org/abs/2509.00664) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://arxiv.org/abs/2509.00664)
 - We fuse intermediate-layer representations from CLIP and Dinov2 using cross-attention to enhance the visual understanding capabilities of Multimodal Language Models.
 </div>
 </div>
@@ -49,7 +70,7 @@ DisLoRA: Task-specific Low-Rank Adaptation via Orthogonal Basis from Singular Va
 
 **She Yifei**, Xinhao Wei, Yulong Wang
 
-[**Paper**](https://openreview.net/forum?id=jQpjys5xSA) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://openreview.net/forum?id=jQpjys5xSA)
 - We decompose LoRA's A and B matrices via SVD to identify task-specific directions for optimized training and use an adaptive soft regularization loss to accelerate convergence.
 </div>
 </div>
@@ -63,7 +84,7 @@ Enhancing Vehicle Platooning Safety via Control Node Placement and Sizing under 
 
 **Yifei She**, Shen Wang, Ahmad Taha, and Xiaofeng Tao
 
-[**Paper**](https://ieeexplore.ieee.org/abstract/document/11108044) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/11108044)
 - We utilize a greedy algorithm to select key control nodes and apply convex optimization to constrain over-approximated reachable sets, ensuring vehicle platooning safety.
 </div>
 </div>
