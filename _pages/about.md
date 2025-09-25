@@ -43,50 +43,69 @@ His research interest includes information theory, mechanistic interpretability 
   [**Paper**](https://openreview.net/)
   - My recent work introduces a novel benchmark to evaluate large language models on complex and dynamic content moderation policies, addressing critical gaps in existing evaluation methods.
   </div>
-  
 </div>
-
 <br>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/1arxiv25.png' alt="arxiv25" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arXiv</div>
+      <img src='images/1arxiv25.png' alt="arxiv25" width="100%">
+    </div>
+  </div>
 
-Fusion to Enhance: Fusion Visual Encoder to Enhance Multimodal Language Model
+  <div class='paper-box-text' markdown="1">
 
-**She Yifei**, Huangxuan Wu
+  Fusion to Enhance: Fusion Visual Encoder to Enhance Multimodal Language Model
 
-[**Paper**](https://arxiv.org/abs/2509.00664)
-- We fuse intermediate-layer representations from CLIP and Dinov2 using cross-attention to enhance the visual understanding capabilities of Multimodal Language Models.
+  **She Yifei**, Huangxuan Wu
+
+  [**Paper**](https://arxiv.org/abs/2509.00664)
+  - We fuse intermediate-layer representations from CLIP and Dinov2 using cross-attention to enhance the visual understanding capabilities of Multimodal Language Models.
+  </div>
 </div>
-</div>
-
 <br>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/1emnlp25.png' alt="emnlp25" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-DisLoRA: Task-specific Low-Rank Adaptation via Orthogonal Basis from Singular Value Decomposition
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">EMNLP 2025</div>
+      <img src='images/1emnlp25.png' alt="emnlp25" width="100%">
+    </div>
+  </div>
 
-**She Yifei**, Xinhao Wei, Yulong Wang
+  <div class='paper-box-text' markdown="1">
 
-[**Paper**](https://openreview.net/forum?id=jQpjys5xSA)
-- We decompose LoRA's A and B matrices via SVD to identify task-specific directions for optimized training and use an adaptive soft regularization loss to accelerate convergence.
+  DisLoRA: Task-specific Low-Rank Adaptation via Orthogonal Basis from Singular Value Decomposition
+
+  **She Yifei**, Xinhao Wei, Yulong Wang
+
+  [**Paper**](https://openreview.net/forum?id=jQpjys5xSA)
+  - We decompose LoRA's A and B matrices via SVD to identify task-specific directions for optimized training and use an adaptive soft regularization loss to accelerate convergence.
+  </div>
 </div>
-</div>
-
 <br>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACC 2025</div><img src='images/1acc25.png' alt="acc25" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-Enhancing Vehicle Platooning Safety via Control Node Placement and Sizing under State and Input Bounds
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ACC 2025</div>
+      <img src='images/1acc25.png' alt="acc25" width="100%">
+    </div>
+  </div>
 
-**Yifei She**, Shen Wang, Ahmad Taha, and Xiaofeng Tao
+  <div class='paper-box-text' markdown="1">
 
-[**Paper**](https://ieeexplore.ieee.org/abstract/document/11108044)
-- We utilize a greedy algorithm to select key control nodes and apply convex optimization to constrain over-approximated reachable sets, ensuring vehicle platooning safety.
-</div>
+  Enhancing Vehicle Platooning Safety via Control Node Placement and Sizing under State and Input Bounds
+
+  **Yifei She**, Shen Wang, Ahmad Taha, and Xiaofeng Tao
+
+  [**Paper**](https://ieeexplore.ieee.org/abstract/document/11108044)
+  - We utilize a greedy algorithm to select key control nodes and apply convex optimization to constrain over-approximated reachable sets, ensuring vehicle platooning safety.
+  </div>
 </div>
 
 # 🎖 Awards and Experiences
