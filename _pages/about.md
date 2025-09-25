@@ -110,7 +110,7 @@ His research interest includes information theory, mechanistic interpretability 
 
 # 🎖 Awards and Experiences
 - *2025,08*, Submitted a Pull Request to PaddleNLP.
-- *2025.08*, Participant, Financial Services Project, National University of Singapore (NUS) Summer Workshop.
+- *2025.08*, Outstanding Student, Financial Services Project, National University of Singapore (NUS) Summer Workshop.
 - *2025.03*, Selected for BUPT's PING Program for advanced studies in Semantic Information Theory.
 - *2024.11*, Recipient of the BUPT Future Scholars Research Fund.
 - *2023.10*, Third-Prize University Scholarship, BUPT.
