@@ -41,7 +41,7 @@ His research interest includes information theory, mechanistic interpretability 
 
   **She Yifei** et al.
 
-  [**Paper**](https://openreview.net/)
+  [**Paper**](https://openreview.net/group?id=ICLR.cc/2026/Conference)
   - My recent work introduces a novel benchmark to evaluate large language models on complex and dynamic content moderation policies, addressing critical gaps in existing evaluation methods.
   </div>
 </div>
