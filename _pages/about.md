@@ -32,7 +32,7 @@ His research interest includes information theory, mechanistic interpretability 
   <div class='paper-box-image'>
     <div>
       <div class="badge">Under Review</div> 
-      <img src='images/under_review.png' alt="Under Reviewing" width="100%">
+      <img src='images/1iclr25.pdf' alt="Under Reviewing" width="100%">
     </div>
   </div>
   
