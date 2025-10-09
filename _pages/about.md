@@ -37,12 +37,13 @@ His research interest includes information theory, mechanistic interpretability 
   </div>
   
   <div class='paper-box-text' markdown="1">
+    
   GMP: A Benchmark For Complex And Dynamic Moderation Policy Generalization
 
   **She Yifei**, Houde Dong, Kai Ye, Liangcai Su, Chenxiong Qian, Jie Hao 
 
   [**Paper**](https://openreview.net/forum?id=QUoY30Fb4w)
-  - My recent work introduces a novel benchmark to evaluate large language models on complex and dynamic content moderation policies, addressing critical gaps in existing evaluation methods.
+  - We introduce a novel benchmark to evaluate large language models on complex and dynamic content moderation policies, addressing critical gaps in existing evaluation methods.
   </div>
 </div>
 <br>
