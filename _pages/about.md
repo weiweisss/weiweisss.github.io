@@ -110,12 +110,6 @@ His research interest includes information theory, mechanistic interpretability 
   </div>
 </div>
 
-# 🎖 Awards and Experiences
-- *2025.08*, Submitted a Pull Request to PaddleNLP.
-- *2025.08*, Outstanding Student, Financial Services Project, National University of Singapore (NUS) Summer Workshop.
-- *2025.03*, Selected for BUPT's PING Program for advanced studies in Semantic Information Theory.
-- *2024.11*, Recipient of the BUPT Future Scholars Research Fund.
-- *2023.10*, Third-Prize University Scholarship, BUPT.
 
 # 📖 Educations
 - *2022.09 - 2026.06 (Expected)*, Bachelor of Engineering in Communication Engineering, Beijing University of Posts and Telecommunications (BUPT).
@@ -123,3 +117,11 @@ His research interest includes information theory, mechanistic interpretability 
 
 # 💻 Internships
 - *2025.10 - 2026.04*, Research Intern at Infrawaves for Online Agentic RL Training System.
+
+# 🎖 Awards and Experiences
+- *2025.10*, Third-Prize University Scholarship, BUPT.
+- *2025.08*, Submitted a Pull Request to PaddleNLP.
+- *2025.08*, Outstanding Student, Financial Services Project, National University of Singapore (NUS) Summer Workshop.
+- *2025.03*, Selected for BUPT's PING Program for advanced studies in Semantic Information Theory.
+- *2024.11*, Recipient of the BUPT Future Scholars Research Fund.
+- *2023.10*, Third-Prize University Scholarship, BUPT.
