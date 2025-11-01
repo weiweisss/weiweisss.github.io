@@ -84,7 +84,7 @@ His research interest includes information theory, mechanistic interpretability 
 
   **She Yifei**, Xinhao Wei, Yulong Wang
 
-  [**Paper**](https://openreview.net/forum?id=jQpjys5xSA)
+  [**Paper**](https://aclanthology.org/2025.emnlp-main.694/)
   - We decompose LoRA's A and B matrices via SVD to identify task-specific directions for optimized training and use an adaptive soft regularization loss to accelerate convergence.
   </div>
 </div>
@@ -111,7 +111,7 @@ His research interest includes information theory, mechanistic interpretability 
 </div>
 
 # 🎖 Awards and Experiences
-- *2025,08*, Submitted a Pull Request to PaddleNLP.
+- *2025.08*, Submitted a Pull Request to PaddleNLP.
 - *2025.08*, Outstanding Student, Financial Services Project, National University of Singapore (NUS) Summer Workshop.
 - *2025.03*, Selected for BUPT's PING Program for advanced studies in Semantic Information Theory.
 - *2024.11*, Recipient of the BUPT Future Scholars Research Fund.
@@ -122,4 +122,4 @@ His research interest includes information theory, mechanistic interpretability 
 - *2026.09 - Future*, Ph.D. Candidate in Artificial Intelligence, Beijing University of Posts and Telecommunications (BUPT). To be supervised by Prof. Kai Niu on the interpretability of LLMs via semantic information theory.
 
 # 💻 Internships
-He is looking for.
+- *2025.10 - 2026.04*, Research Intern at Infrawaves for Online Agentic RL Training System.
