@@ -23,6 +23,7 @@ His research interest includes information theory, mechanistic interpretability 
 
 
 # 🔥 News
+- *2025.11*: @nbsp;I was granted a patent for synthesizing training images.
 - *2025.09*: &nbsp;I was invited to be the reviewer of International Journal of Information Technology & Decision Making (IJITDM).
 - *2025.09*: &nbsp;I built a pinned [chat widget](https://github.com/weiweisss/chatbox) that calls AI APIs for quick questions.
 - *2025.09*: &nbsp;🎉🎉 I created my personal academic homepage.
