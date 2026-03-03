@@ -32,8 +32,29 @@ His research interest includes information theory, mechanistic interpretability 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Under Review</div> 
-      <img src='images/1iclr25.png' alt="1iclr25" width="100%">
+      <div class="badge">arXiv</div> 
+      <img src='images/2arxiv26.png' alt="2arxiv26" width="100%">
+    </div>
+  </div>
+  
+  <div class='paper-box-text' markdown="1">
+    
+  Learning to Wait: Synchronizing Agents with the Physical World
+
+  **Yifei She**, Ping Zhang, He Liu, Yanmin Jia, Yang Jing, Zijun Liu, Peng Sun, Xiangbin Li, Xiaohe Hu
+
+  [**Paper**](https://arxiv.org/abs/2512.16262)
+  - We leverage the semantic priors of LLMs to endow them with the ability to actively wait for event completion, thereby reducing the manual effort required for system-side development.
+  </div>
+</div>
+<br>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arXiv</div> 
+      <img src='images/1arxiv26.png' alt="1arxiv26" width="100%">
     </div>
   </div>
   
@@ -43,8 +64,8 @@ His research interest includes information theory, mechanistic interpretability 
 
   **She Yifei**, Houde Dong, Kai Ye, Liangcai Su, Chenxiong Qian, Jie Hao 
 
-  [**Paper**](https://openreview.net/forum?id=QUoY30Fb4w)
-  - We introduce a novel benchmark to evaluate large language models on complex and dynamic content moderation policies, addressing critical gaps in existing evaluation methods.
+  [**Paper**](https://arxiv.org/abs/2603.01724)
+  - We introduce a novel benchmark to evaluate large language models on complex and dynamic content moderation policies.
   </div>
 </div>
 <br>
