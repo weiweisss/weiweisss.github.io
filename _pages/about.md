@@ -32,6 +32,27 @@ His research interest includes information theory, mechanistic interpretability 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">Entropy 2026</div>
+      <img src='images/1entropy26.png' alt="1entropy26" width="100%">
+    </div>
+  </div>
+  
+  <div class='paper-box-text' markdown="1">
+    
+  Semantic Algorithmic Information Theory: From Kolmogorov Complexity to Semantic Equivalence
+
+  Jiatong Wu, Sen Wang, Kai Niu, **Yifei She**, Ping Zhang
+
+  [**Paper**](https://www.mdpi.com/1099-4300/28/5/554)
+  - We introduce Semantic Algorithmic Information Theory, formalize the Semantic Turing Machine System, define Semantic Complexity, and propose a model-based estimator of Normalized Semantic Information Distance to measure semantic equivalence beyond syntactic variation.
+  </div>
+</div>
+<br>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">arXiv</div> 
       <img src='images/2arxiv26.png' alt="2arxiv26" width="100%">
     </div>
@@ -45,48 +66,6 @@ His research interest includes information theory, mechanistic interpretability 
 
   [**Paper**](https://arxiv.org/abs/2512.16262)
   - We leverage the semantic priors of LLMs to endow them with the ability to actively wait for event completion, thereby reducing the manual effort required for system-side development.
-  </div>
-</div>
-<br>
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">arXiv</div> 
-      <img src='images/1arxiv26.png' alt="1arxiv26" width="100%">
-    </div>
-  </div>
-  
-  <div class='paper-box-text' markdown="1">
-    
-  GMP: A Benchmark For Complex And Dynamic Moderation Policy Generalization
-
-  **She Yifei**, Houde Dong, Kai Ye, Liangcai Su, Chenxiong Qian, Jie Hao 
-
-  [**Paper**](https://arxiv.org/abs/2603.01724)
-  - We introduce a novel benchmark to evaluate large language models on complex and dynamic content moderation policies.
-  </div>
-</div>
-<br>
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">arXiv</div>
-      <img src='images/1arxiv25.png' alt="arxiv25" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text' markdown="1">
-
-  Fusion to Enhance: Fusion Visual Encoder to Enhance Multimodal Language Model
-
-  **She Yifei**, Huangxuan Wu
-
-  [**Paper**](https://arxiv.org/abs/2509.00664)
-  - We fuse intermediate-layer representations from CLIP and Dinov2 using cross-attention to enhance the visual understanding capabilities of Multimodal Language Models.
   </div>
 </div>
 <br>
