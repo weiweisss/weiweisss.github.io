@@ -19,7 +19,7 @@ redirect_from:
 
 She Yifei is an undergraduate student in Communication Engineering at Beijing University of Posts and Telecommunications (BUPT), expecting to graduate in 2026. He will continue at BUPT to pursue his Ph.D. under the supervision of Prof. Kai Niu. His doctoral research will focus on the interpretability of Large Language Models (LLMs) through the lens of semantic information theory.
 
-His research interest includes information theory, mechanistic interpretability and representation learning.
+His research interest includes semantic information theory, mechanistic interpretability and representation learning.
 
 
 # 🔥 News
@@ -117,11 +117,12 @@ His research interest includes information theory, mechanistic interpretability 
 - *2026.09 - Future*, Ph.D. Candidate in Artificial Intelligence, Beijing University of Posts and Telecommunications (BUPT). To be supervised by Prof. Kai Niu on the interpretability of LLMs via semantic information theory.
 
 # 💻 Internships
-- *2025.10 - 2026.04*, Research Intern at Infrawaves for Online Agentic RL Training System.
+- *2025.10 - Current*, Research Intern at Infrawaves, working on production-grade AIOps and MaaS research.
 
 # 🎖 Awards and Experiences
+- *2026.06*, College-level Outstanding Undergraduate Thesis, BUPT.
 - *2025.10*, Third-Prize University Scholarship, BUPT.
-- *2025.08*, Submitted a Pull Request to PaddleNLP.
+- *2025.08*, Merged a Pull Request to PaddleNLP.
 - *2025.08*, Outstanding Student, Financial Services Project, National University of Singapore (NUS) Summer Workshop.
 - *2025.03*, Selected for BUPT's PING Program for advanced studies in Semantic Information Theory.
 - *2024.11*, Recipient of the BUPT Future Scholars Research Fund.
