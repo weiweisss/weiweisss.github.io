@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "She Yifei(佘熠飞)"
   avatar           : "images/face.png"
-  bio              : "Wechat ID: weiweizqa123"
+  bio              : "Email: sheyifei@bupt.edu.cn"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "sheyifei@bupt.edu.cn"
+  email            :
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
