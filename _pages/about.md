@@ -17,16 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-She Yifei is an undergraduate student in Communication Engineering at Beijing University of Posts and Telecommunications (BUPT), expecting to graduate in 2026. He will continue at BUPT to pursue his Ph.D. under the supervision of Prof. Kai Niu. His doctoral research will focus on the interpretability of Large Language Models (LLMs) through the lens of semantic information theory.
+She Yifei is a Ph.D. candidate in Artificial Intelligence at Beijing University of Posts and Telecommunications (BUPT), supervised by Prof. Kai Niu. He received his B.Eng. in Communication Engineering from BUPT in 2026. His doctoral research focuses on the interpretability of Large Language Models (LLMs) through the lens of semantic information theory.
 
 His research interest includes semantic information theory, mechanistic interpretability and representation learning.
 
-
-# 🔥 News
-- *2025.11*: &nbsp;I was granted a patent (CN121213699A) for synthesizing training images.
-- *2025.09*: &nbsp;I was invited to be the reviewer of International Journal of Information Technology & Decision Making (IJITDM).
-- *2025.09*: &nbsp;I built a pinned [chat widget](https://github.com/weiweisss/chatbox) that calls AI APIs for quick questions.
-- *2025.09*: &nbsp;🎉🎉 I created my personal academic homepage.
 
 # 📝 Publications 
 <div class='paper-box'>
@@ -113,14 +107,20 @@ His research interest includes semantic information theory, mechanistic interpre
 
 
 # 📖 Educations
-- *2022.09 - 2026.06 (Expected)*, Bachelor of Engineering in Communication Engineering, Beijing University of Posts and Telecommunications (BUPT).
-- *2026.09 - Future*, Ph.D. Candidate in Artificial Intelligence, Beijing University of Posts and Telecommunications (BUPT). To be supervised by Prof. Kai Niu on the interpretability of LLMs via semantic information theory.
+- *2026.09 - Present*, Ph.D. Candidate in Artificial Intelligence, Beijing University of Posts and Telecommunications (BUPT). Supervised by Prof. Kai Niu, working on the interpretability of LLMs via semantic information theory.
+- *2022.09 - 2026.06*, Bachelor of Engineering in Communication Engineering, Beijing University of Posts and Telecommunications (BUPT).
 
 # 💻 Internships
-- *2025.10 - Current*, Research Intern at Infrawaves, working on production-grade AIOps and MaaS research.
+- *2025.10 - 2026.11*, Research Intern at Infrawaves, working on production-grade AIOps and MaaS.
+  - Explored agentic RL for incident handling; the problem of agents waiting on slow environments led to *Learning to Wait*.
+  - Built InfraOps, an agent system deployed in real cluster operations, and presented it in an internal talk.
+  - Helped bring Kimi K3 serving on GB300 from scratch to stable production with SGLang: tuned PD disaggregation ratios and parallelism, and fixed bugs.
+  - Optimized prefill scheduling ([#26](https://github.com/Infrawaves/sglang/pull/26), [#75](https://github.com/Infrawaves/sglang/pull/75)) and multimodal peak memory ([#98](https://github.com/Infrawaves/sglang/pull/98)).
+  - Improved the hierarchical KV cache: removed redundant per-rank MLA KV copies ([#72](https://github.com/Infrawaves/sglang/pull/72)), let decode write KV to Mooncake L3 for prefill to reuse ([#90](https://github.com/Infrawaves/sglang/pull/90)), and stabilized the L3 hit rate.
 
 # 🎖 Awards and Experiences
 - *2026.06*, College-level Outstanding Undergraduate Thesis, BUPT.
+- *2025.11*, Granted a patent (CN121213699A) for synthesizing training images.
 - *2025.10*, Third-Prize University Scholarship, BUPT.
 - *2025.08*, Merged a Pull Request to PaddleNLP.
 - *2025.08*, Outstanding Student, Financial Services Project, National University of Singapore (NUS) Summer Workshop.
